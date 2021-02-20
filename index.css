@@ -1,0 +1,6 @@
+.col{
+    background-color: pink;
+}
+.col:nth-child(odd){
+    background-color: red;
+}
